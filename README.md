@@ -7,5 +7,5 @@ The flow of website manually performs as follow
 3. User can edit or update the tasks.
 4. User can remove or delete tasks from website.
 
-All the frontend source codes reference from YouTube freeCodeCamp.org Channal By Author - John 
+All the frontend source codes reference from YouTube freeCodeCamp.org Channel By Author - John 
 Link - https://www.youtube.com/watch?v=qwfE7fSVaZM&t=9422s
